@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    overflow: hidden;
+    background: rgba(0, 50, 50, 0);
+}
+header{
+    margin: 0%;
+    overflow: hidden;
+    background: rgba(0, 50, 50, 0);
+    display: block;
+    text-align: -webkit-center;
+}
+
+.modal-footer
+{
+    text-align: left !important;
+}
+
+hr {
+    border-top: 5px solid #2e3c6f !important;
+}
